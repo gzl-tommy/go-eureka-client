@@ -12,9 +12,20 @@ replace (
 )
 
 require (
-	github.com/gzl-tommy/go-eureka-client v1.0.0 // indirect
-	github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f // indirect
-	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5 // indirect
-	github.com/tietang/props/v3 v3.1.0 // indirect
-	github.com/x-cray/logrus-prefixed-formatter v0.5.2 // indirect
+	github.com/alecthomas/units v0.0.0-20210208195552-ff826a37aa15 // indirect
+	github.com/gzl-tommy/go-eureka-client/eureka v0.0.0-20210419094448-50ddcb33100a
+	github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f
+	github.com/mattn/go-colorable v0.1.6
+	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
+	github.com/onsi/ginkgo v1.16.1 // indirect
+	github.com/onsi/gomega v1.11.0 // indirect
+	github.com/prometheus/common v0.20.0 // indirect
+	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
+	github.com/sirupsen/logrus v1.8.1
+	github.com/tietang/go-utils v0.1.3
+	github.com/tietang/props/v3 v3.1.0
+	github.com/valyala/fasttemplate v1.2.1 // indirect
+	github.com/x-cray/logrus-prefixed-formatter v0.5.2
+	golang.org/x/sys v0.0.0-20210415045647-66c3f260301c // indirect
+	gopkg.in/yaml.v2 v2.4.0
 )
