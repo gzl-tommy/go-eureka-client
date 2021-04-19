@@ -15,6 +15,5 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/tietang/go-utils v0.1.3
 	github.com/tietang/props/v3 v3.1.0
-	gopkg.in/ini.v1 v1.42.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 )

@@ -12,13 +12,9 @@ replace (
 )
 
 require (
-	github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f // indirect
-	github.com/mattn/go-colorable v0.1.1 // indirect
-	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5 // indirect
-	github.com/sirupsen/logrus v1.4.0 // indirect
 	github.com/gzl-tommy/go-eureka-client v1.0.0 // indirect
-	github.com/tietang/go-utils v0.0.0-20190308094824-9e17fa5e3788 // indirect
-	github.com/tietang/props v2.1.0+incompatible // indirect
+	github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f // indirect
+	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5 // indirect
+	github.com/tietang/props/v3 v3.1.0 // indirect
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2 // indirect
-	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
